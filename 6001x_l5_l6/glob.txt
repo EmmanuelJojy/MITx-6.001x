@@ -1,0 +1,2 @@
+They're dangerous to use because global variables break
+the scoping of variables that we get by a function call.
